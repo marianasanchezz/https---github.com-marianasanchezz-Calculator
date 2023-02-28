@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator full-stack",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianasanchezz/Calculator.git"
+  },
+  "author": "Mariana Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianasanchezz/Calculator/issues"
+  },
+  "homepage": "https://github.com/marianasanchezz/Calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
